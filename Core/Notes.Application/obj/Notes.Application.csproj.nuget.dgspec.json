@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Vasinaa\\Desktop\\Arhitect\\Arhitect.csproj": {}
+    "C:\\Users\\Vasinaa\\Desktop\\Arhitect\\Core\\Notes.Application\\Notes.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Vasinaa\\Desktop\\Arhitect\\Arhitect.csproj": {
+    "C:\\Users\\Vasinaa\\Desktop\\Arhitect\\Core\\Notes.Application\\Notes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Vasinaa\\Desktop\\Arhitect\\Arhitect.csproj",
-        "projectName": "Arhitect",
-        "projectPath": "c:\\Users\\Vasinaa\\Desktop\\Arhitect\\Arhitect.csproj",
+        "projectUniqueName": "C:\\Users\\Vasinaa\\Desktop\\Arhitect\\Core\\Notes.Application\\Notes.Application.csproj",
+        "projectName": "Notes.Application",
+        "projectPath": "C:\\Users\\Vasinaa\\Desktop\\Arhitect\\Core\\Notes.Application\\Notes.Application.csproj",
         "packagesPath": "C:\\Users\\Vasinaa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Vasinaa\\Desktop\\Arhitect\\obj\\",
+        "outputPath": "C:\\Users\\Vasinaa\\Desktop\\Arhitect\\Core\\Notes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vasinaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

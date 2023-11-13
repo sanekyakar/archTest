@@ -1,0 +1,12 @@
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\bin\Debug\net7.0\Notes.Doamin.deps.json
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\bin\Debug\net7.0\Notes.Doamin.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\bin\Debug\net7.0\Notes.Doamin.pdb
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.csproj.AssemblyReference.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.AssemblyInfoInputs.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.AssemblyInfo.cs
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.csproj.CoreCompileInputs.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\refint\Notes.Doamin.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\Notes.Doamin.pdb
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Doamin\obj\Debug\net7.0\ref\Notes.Doamin.dll

@@ -1,0 +1,12 @@
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\bin\Debug\net7.0\Notes.Application.deps.json
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\bin\Debug\net7.0\Notes.Application.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\bin\Debug\net7.0\Notes.Application.pdb
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.AssemblyReference.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfoInputs.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.AssemblyInfo.cs
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\refint\Notes.Application.dll
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\Notes.Application.pdb
+C:\Users\Vasinaa\Desktop\Arhitect\Core\Notes.Application\obj\Debug\net7.0\ref\Notes.Application.dll
